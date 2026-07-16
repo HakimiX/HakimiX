@@ -57,6 +57,14 @@ That can mean designing the architecture, writing the backend, provisioning the 
 
 I care about building systems that work reliably in the real world - especially when security, compliance, data, and availability matter.
 
+## In my spare time
+
+Outside of work, I build **iOS and macOS applications**, usually taking them from the initial idea through product design, backend development, cloud infrastructure, and release.
+
+I also experiment with **local AI and LLM setups for agentic coding**. This includes running models on my own hardware, testing coding agents, improving development workflows, and exploring how local models can work alongside cloud based AI tools.
+
+These projects allow me to combine backend development, cloud engineering, application development, product thinking, and AI in complete working products.
+
 ## Get in touch
 
 - 📍 Copenhagen, Denmark
