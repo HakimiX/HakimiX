@@ -35,7 +35,11 @@ I have worked on some of Denmark's major public digital platforms, including:
 - **Mit Virk**
 - **Digital Post**
 
-I have built backend services, operated cloud and Kubernetes platforms, improved deployment processes, and contributed to the migration from **NemID to MitID**.
+At Vurderingsportalen, I worked extensively with **Clojure**, building backend services, GraphQL APIs, integrations, and authentication solutions.
+
+Working with Clojure gave me strong practical experience with **functional programming** and shaped the way I think about software development. Its focus on simple functions, immutable data, predictable data flows, and fewer side effects has also influenced how I write **Python, TypeScript, and other languages**.
+
+My public-sector work has also included cloud infrastructure, Kubernetes platforms, CI/CD, monitoring, and contributing to the migration from **NemID to MitID**.
 
 ## Technology
 
