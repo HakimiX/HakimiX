@@ -2,9 +2,9 @@
 
 ### Cloud & Backend Engineer based in Copenhagen
 
-I build production systems from end to end — from backend services and integrations to cloud infrastructure, deployment pipelines, monitoring, and operations.
+With more than **eight years of experience**, I build production systems from end to end — from backend services and integrations to cloud infrastructure, deployment pipelines, monitoring, and operations.
 
-Since 2018, I have worked on large and business-critical systems across the **pharmaceutical industry** and the **Danish public sector**. My experience includes projects for **Novo Nordisk**, **The Danish Ministry of Taxation**, **Vurderingsportalen**, **virk.dk**, **Mit Virk**, and **Digital Post**.
+Since 2018, I have worked on large and business-critical systems across the **pharmaceutical industry** and the **Danish public sector**. My experience includes projects for **Novo Nordisk**, **The Danish Ministry of Taxation**, **Vurderingsportalen**, **Danish Business Authority**, **virk.dk**, **Mit Virk**, and **Digital Post**.
 
 I don't only write backend code, and I don't only manage cloud infrastructure. I work across both sides and make sure the complete system is secure, scalable, maintainable, and ready for production.
 
