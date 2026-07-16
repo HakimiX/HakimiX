@@ -59,7 +59,7 @@ I care about building systems that work reliably in the real world - especially 
 
 ## In my spare time
 
-Outside of work, I build **iOS and macOS applications**, usually taking them from the initial idea through product design, backend development, cloud infrastructure, and release.
+Outside of work, I build **iOS and macOS applications using Swift**, often taking them from the initial idea through product design, backend development, cloud infrastructure, and release.
 
 I also experiment with **local AI and LLM setups for agentic coding**. This includes running models on my own hardware, testing coding agents, improving development workflows, and exploring how local models can work alongside cloud based AI tools.
 
